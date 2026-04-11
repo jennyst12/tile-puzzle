@@ -1,6 +1,6 @@
 {
-  "name": "Tile Slide Puzzle",
-  "short_name": "Tile",
+  "name": "Tile Slide Fifteen Puzzle",
+  "short_name": "Tile Puzzle",
   "start_url": "/tile-puzzle/",
   "scope": "/tile-puzzle/",
   "display": "standalone",
