@@ -1,6 +1,6 @@
 {
-  "name": "Fifteen Tile Puzzle",
-  "short_name": "Fifteen",
+  "name": "Tile Slide Puzzle",
+  "short_name": "Tile",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
